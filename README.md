@@ -2,7 +2,8 @@
 
 A modern, interactive BlackJack game with a sleek casino-inspired interface. Play the classic card game against the dealer with realistic animations and intuitive touch controls.
 
-![BlackJack Game](https://i.ibb.co/d4fJS5QZ/og-image.jpg)
+![image](https://github.com/user-attachments/assets/1a2a42b0-766b-4c8b-a7c9-c467e11ff289)
+
 
 ## Features
 
@@ -62,6 +63,8 @@ To run the game locally:
 2. Open `index.html` in your web browser
 3. No build process or dependencies required!
 
+![og-image](https://github.com/user-attachments/assets/e3b6e206-9cfc-4bf4-aca0-b8c9be38b59b)
+
 ## License
 
 ```
@@ -74,6 +77,9 @@ You may obtain a copy of the License at
     http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software
+
+
+![og-image](https://github.com/user-attachments/assets/e3b6e206-9cfc-4bf4-aca0-b8c9be38b59b)
 distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
